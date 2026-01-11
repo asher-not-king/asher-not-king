@@ -1,14 +1,14 @@
 Hi there 👋 
 I'm Asher King, AND ...
 
-🔭 I’m currently working on <insert>
+🔭 I’m currently working on ...
 
-🌱 I’m currently learning <insert>
+🌱 I’m currently learning ...
 
-👯 I’m looking to collaborate on <insert>
+👯 I’m looking to collaborate on ...
 
-🤔 I’m looking for help with <insert>
+🤔 I’m looking for help with ...
 
-💬 Ask me about <insert>
+💬 Ask me about ...
 
-⚡ Fun fact: <insert> is not a real tag!
+⚡ Fun fact: ... is a valid Python syntax!
