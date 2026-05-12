@@ -3,6 +3,8 @@
 ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hello+World%21+%F0%9F%91%8B&subheader=I%27m+Asher+King+...&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Kinewave&watermarkpos=bottom-right)
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+can+code+a+bit+...)](https://git.io/typing-svg)
+
 
   
 <!-- ### And I'm good in;
