@@ -45,3 +45,5 @@
 
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E9F7&vCenter=true&width=435&lines=Just+Another+Random+User+!!!" alt="Typing SVG" /></a> -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=asher-not-king) -->
