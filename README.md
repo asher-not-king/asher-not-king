@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hello+World%21+%F0%9F%91%8B&subheader=I%27m+Asher+King+...&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Kinewave&watermarkpos=bottom-right)
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+Hello+World%21+%F0%9F%91%8B&subheader=I%27m+Asher+King+...&bg=00000000&color=FFFFFF&headerfont=Permanent+Marker&subheader[...]
 <!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+can+code+a+bit+...)](https://git.io/typing-svg)
@@ -11,7 +11,7 @@
   <p>
        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"[...]
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
   <p>
@@ -44,4 +44,10 @@
 
 
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E9F7&vCenter=true&width=435&lines=Just+Another+Random+User+!!!" alt="Typing SVG" /></a> -->
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E9F7&vCenter=true&width=435&lines=Just+Another+Random+User+!!!" alt="Typi[...]
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=asher-not-king&color=blue)
+
+</div>
